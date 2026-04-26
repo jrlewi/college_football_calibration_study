@@ -1,0 +1,15 @@
+data/
+.env*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.secrets.baseline
+.vscode/
+.claude/
+PLAN.md
+prompt.md
+blog_post_draft.md
+notebooks/.ipynb_checkpoints/
+notebooks/Documents.code-workspace
